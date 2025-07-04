@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank">
-      <img src="https://github.com/user-attachments/assets/acb3c1e6-04ef-4787-a602-f16abe9a04fe" alt="Project Banner">
+    <a href="">
+      <img src="https://github.com/Mahesh7Kumar/only-Movies/blob/main/src/assets/Cover.png" alt="Project Banner">
     </a>
   <br />
   
