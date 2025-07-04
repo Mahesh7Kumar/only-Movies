@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="">
+    <a href="https://www.linkedin.com/posts/mahesh-i-dev_reactjs-frontendfun-movieapp-activity-7346840705195003905-9kwx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFLc5s4BfNXcIX6jtoa0nvh0FqZseEUT3DI">
       <img src="https://github.com/Mahesh7Kumar/only-Movies/blob/main/src/assets/Cover.png" alt="Project Banner">
     </a>
   <br />
