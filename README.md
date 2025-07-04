@@ -30,12 +30,33 @@ Built with React.js for the user interface, Appwrite for the Trending Movies Alg
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
 
+---
+## 💻 projects View:
+<center>
+<table>
+  <tr>
+    <td><img src="https://github.com/Mahesh7Kumar/only-Movies/blob/main/src/assets/Screenshot%202025-07-03%20124418.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/only-Movies/blob/main/src/assets/Screenshot%202025-07-03%20124512.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/only-Movies/blob/main/src/assets/Screenshot%202025-07-03%20124620.png" width="150"/></td>
+  </tr>
+</table>
+📱Mobile Responsive:
+  <table>
+     <tr>
+      <td><img src="https://github.com/Mahesh7Kumar/only-Movies/blob/main/src/assets/Screenshot%202025-07-04%20142945.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/only-Movies/blob/main/src/assets/Screenshot%202025-07-04%20143018.png" width="150"/></td>
+       <td><img src="https://github.com/Mahesh7Kumar/only-Movies/blob/main/src/assets/Screenshot%202025-07-04%20143054.png" width="150"/></td>
+     </tr>
+  </table>
+</center>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
 - Appwrite
 - Tailwind CSS
+
+----
 
 ## <a name="features">🔋 Features</a>
 
